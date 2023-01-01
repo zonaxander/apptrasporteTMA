@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "57CAvvaPSaVlJCnRANn1Ss/hkO++988hs50BSJ+0I9zhkoyJ61WMaK6sObr76/My/7SEnbiCI7WWU3wudwwbOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PCIVAN\\OneDrive\\Escritorio\\repositorio ivanvisual\\apptrasporteTMA\\apptrasporteTMA\\apptrasporteTMA.iOS\\apptrasporteTMA.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PCIVAN\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\PCIVAN\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\PCIVAN\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

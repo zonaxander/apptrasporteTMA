@@ -1,0 +1,6 @@
+C:\Users\PCIVAN\OneDrive\Escritorio\repositorio ivanvisual\apptrasporteTMA\apptrasporteTMA\apptrasporteTMA\obj\Debug\netstandard2.0\apptrasporteTMA.csproj.AssemblyReference.cache
+C:\Users\PCIVAN\OneDrive\Escritorio\repositorio ivanvisual\apptrasporteTMA\apptrasporteTMA\apptrasporteTMA\obj\Debug\netstandard2.0\apptrasporteTMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCIVAN\OneDrive\Escritorio\repositorio ivanvisual\apptrasporteTMA\apptrasporteTMA\apptrasporteTMA\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\PCIVAN\OneDrive\Escritorio\repositorio ivanvisual\apptrasporteTMA\apptrasporteTMA\apptrasporteTMA\obj\Debug\netstandard2.0\apptrasporteTMA.AssemblyInfoInputs.cache
+C:\Users\PCIVAN\OneDrive\Escritorio\repositorio ivanvisual\apptrasporteTMA\apptrasporteTMA\apptrasporteTMA\obj\Debug\netstandard2.0\apptrasporteTMA.AssemblyInfo.cs
+C:\Users\PCIVAN\OneDrive\Escritorio\repositorio ivanvisual\apptrasporteTMA\apptrasporteTMA\apptrasporteTMA\obj\Debug\netstandard2.0\apptrasporteTMA.csproj.CoreCompileInputs.cache
